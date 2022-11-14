@@ -14,7 +14,7 @@
 ## Score
 Best score in grid search
 
-Public leader board will have little less RMSLE than that of on validation data, because below error is on validation data when model is trained/fitted on 67% of the training data because of 3-fold cross validation. Public leaderboard will have error on test data when model is retrained/refitted on 100% of the training data.
+A public leader board will have a little less RMSLE than that of on validation data because the below error is on validation data when the model is trained/fitted on 67% of the training data because of 3-fold cross-validation. The public leaderboard will have errors on test data when the model is retrained/refitted on 100% of the training data.
 
 RMSLE on training data: 0.0786
 RMSLE on validation data: 0.1214
